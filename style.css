@@ -10,6 +10,9 @@ body {
   overflow: hidden;
   background: #f1f5f9;
 }
+body {
+  background: red;
+}
 
 /* =======================
    CONTAINER
